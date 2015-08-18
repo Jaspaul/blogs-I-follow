@@ -14,6 +14,7 @@ A list of blogs I am currently following
 * Sam Saffron [(Website)](http://samsaffron.com/) [(RSS)](http://samsaffron.com/posts.atom)
 * Schneems [(Website)](http://www.schneems.com/) [(RSS)](http://www.schneems.com/feed.xml) 
 * Server Fault Blog [(Website)](http://blog.serverfault.com/) [(RSS)](http://blog.serverfault.com/feed/)
+* Symfony Blog [(Website)](http://symfony.com/blog/) [(RSS)](http://feeds.feedburner.com/symfony/blog)
 * Taylor Otwell [(Website)](http://taylorotwell.com/) [(RSS)](http://taylorotwell.com/feed/)
 * Troy Hunt [(Website)](http://www.troyhunt.com/) [(RSS)](http://feeds.feedburner.com/TroyHunt)
 * Uncle Bob [(Website)](http://blog.8thlight.com/) [(RSS)](http://blog.8thlight.com/feed/atom.xml)

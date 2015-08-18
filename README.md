@@ -1,1 +1,18 @@
-# blogs-I-follow
+# Blogs I Currently Follow
+A list of blogs I am currently following
+* Addy's Engineering Articles [(Website)](http://addyosmani.com/blog/) [(RSS)](http://feeds.feedburner.com/addyosmani)
+* Emerald Kingdom Development Blog [(Website)](http://eo-development.livejournal.com/) [(RSS)](http://eo-development.livejournal.com/data/rss)
+* Etsy - Code As Craft [(Website)](https://codeascraft.com/) [(RSS)](https://codeascraft.com/feed/atom/)
+* Fideloper [(Website)](http://fideloper.com/) [(RSS)](http://fideloper.com/feed)
+* GitHub Engineering [(Website)](http://githubengineering.com/) [(RSS)](http://githubengineering.com/atom.xml)
+* Google Research Blog [(Website)](http://googleresearch.blogspot.ca/) [(RSS)](http://feeds.feedburner.com/blogspot/gJZg)
+* Google Testing Blog [(Website)](http://googletesting.blogspot.ca/) [(RSS)](http://feeds.feedburner.com/blogspot/RLXA)
+* Jon Cave [(Website)](http://joncave.co.uk/) [(RSS)](http://joncave.co.uk/rss.xml)
+* Nick Carver [(Website)](http://nickcraver.com/blog/) [(RSS)](http://nickcraver.com/blog/feed.xml)
+* Official Google Blog [(Website)](http://googleblog.blogspot.ca/) [(RSS)](http://googleblog.blogspot.ca/atom.xml)
+* Sam Saffron [(Website)](http://samsaffron.com/) [(RSS)](http://samsaffron.com/posts.atom)
+* Schneems [(Website)](http://www.schneems.com/) [(RSS)](http://www.schneems.com/feed.xml) 
+* Server Fault Blog [(Website)](http://blog.serverfault.com/) [(RSS)](http://blog.serverfault.com/feed/)
+* Taylor Otwell [(Website)](http://taylorotwell.com/) [(RSS)](http://taylorotwell.com/feed/)
+* Troy Hunt [(Website)](http://www.troyhunt.com/) [(RSS)](http://feeds.feedburner.com/TroyHunt)
+* Uncle Bob [(Website)](http://blog.8thlight.com/) [(RSS)](http://blog.8thlight.com/feed/atom.xml)

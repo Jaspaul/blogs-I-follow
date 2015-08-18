@@ -7,6 +7,7 @@ A list of blogs I am currently following
 * GitHub Engineering [(Website)](http://githubengineering.com/) [(RSS)](http://githubengineering.com/atom.xml)
 * Google Research Blog [(Website)](http://googleresearch.blogspot.ca/) [(RSS)](http://feeds.feedburner.com/blogspot/gJZg)
 * Google Testing Blog [(Website)](http://googletesting.blogspot.ca/) [(RSS)](http://feeds.feedburner.com/blogspot/RLXA)
+* High Scalability [(Website)](http://highscalability.com) [(RSS)](http://feeds.feedburner.com/HighScalability)
 * Jon Cave [(Website)](http://joncave.co.uk/) [(RSS)](http://joncave.co.uk/rss.xml)
 * Nick Carver [(Website)](http://nickcraver.com/blog/) [(RSS)](http://nickcraver.com/blog/feed.xml)
 * Official Google Blog [(Website)](http://googleblog.blogspot.ca/) [(RSS)](http://googleblog.blogspot.ca/atom.xml)
